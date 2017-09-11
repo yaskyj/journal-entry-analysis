@@ -11,6 +11,7 @@
 *.h5
 *.jpg
 *.npy
+*.xls
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
